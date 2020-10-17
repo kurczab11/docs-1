@@ -1,3 +1,5 @@
+- name: Cache
+  uses: actions/cache@v2.1.2
 ---
 title: Finding and customizing actions
 shortTitle: Finding and customizing actions
